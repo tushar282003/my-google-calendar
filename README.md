@@ -1,20 +1,18 @@
-# Google Calendar Clone
-Written in TypeScript.
+# My Google Calendar 
 
 ## Available Features
 
-- [x] Calendars
-- [x] Mini Calendar
-- [x] Schedules: Event and Task
-- [x] Calendar View Selection: Day, Week, and last 4 days
-- [x] Draggable dialog w/ readjustable position
-- [X] Time Indicator (fully displayed in the current day column)
-- [x] External Holiday Events
-- [x] User Settings
-- [x] User Authentication with Firebase (Google account)
-- [X] Firebase Firestore
+Calendars
+Mini Calendar
+Schedules: Event and Task
+Calendar View Selection: Day, Week, and last 4 days
+Draggable dialog w/ readjustable position
+Time Indicator (fully displayed in the current day column)
+External Holiday Events
+User Settings
+User Authentication with Firebase (Google account)
+Firebase Firestore
 
-### Required configuration for .env Variables
 
 **Client-side Configuration**
 
